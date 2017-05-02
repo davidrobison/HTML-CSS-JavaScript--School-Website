@@ -1,1 +1,6 @@
-A collection of a website where I edited and/or created a navigation bar using the header and footer features of HTML5.
+The Tech Academy Website
+This was my project creating company training web pages for The Tech Academy based in Portland, OR.
+
+1. Download and run Xampp or your preferred server before running.
+    https://www.apachefriends.org/index.html
+2. Use your favorite browser for viewing.
